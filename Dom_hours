@@ -1,4 +1,4 @@
-HOURS TOTAL - 121
+HOURS TOTAL - 153
 Sprint 1 - 20 hours
 https://github.com/drsjb80/JVPM
 https://help.github.com/en/articles/cloning-a-repository 
@@ -13,7 +13,7 @@ https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html#jvms-4.7.3
 https://en.wikipedia.org/wiki/Opcode
 https://fileinfo.com/extension/class
 
-Sprint 3 - 13 hours 
+Sprint 3 - 20 hours 
 https://docs.python.org/2/tutorial/datastructures.html 
 https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings 
 https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-7.html 
@@ -25,17 +25,18 @@ https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html
 https://www.quora.com/What-is-Run-Time-Constant-Pool-in-CLASS-AREA-in-JAVA 
 http://www.thejavageek.com/2013/06/19/the-string-constant-pool/ 
 https://www.artima.com/insidejvm/ed2/linkmodP.html
+
 Sprint 5 - 27 hours https://stackoverflow.com/questions/7395047/what-are-python-implementation-of- nextint-hasnext-from-java 
 https://www.rose-hulman.edu/class/csse/csse220/200830/web/Resources/ Python_vs_Java.html 
 https://www.quora.com/Used-with-Scanner-class-is-input-nextInt-in-Java-comparable- to-int-raw_input-in-Python 
 https://www.geeksforgeeks.org/scanner-nextint-method-in-java-with-examples/
 
-Sprint 6 - 10 hours
+Sprint 6 - 14 hours
 https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html 
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html 
 https://stackoverflow.com/questions/5857812/long-vs-integer-long-vs-int-what-to-use- and-when
 https://docs.python.org/3/tutorial/floatingpoint.html
 
-Sprint 7 - 18 hours
+Sprint 7 - 22 hours
 http://stupidpythonideas.blogspot.com/2015/01/ieee-floats-and-python.html 
 https://realpython.com/python-refactoring/
